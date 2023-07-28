@@ -1,0 +1,18 @@
+Patients
+
+zyxw - Patient2
+Aishvi - Patient1
+Jahnvi - Patient5
+VaishnaviDixit - Patient4
+Rujutha - Patient6
+
+
+Doctors
+Qwerty - Doctor10
+Varuni - Doctor11
+Sachin - Doctor12
+Eva - Doctor14
+
+Admins
+
+Sameera - Admin100
